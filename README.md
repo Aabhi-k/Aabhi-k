@@ -18,7 +18,5 @@ I'm Aabhigyan Kumar, an aspiring java developer with strong foundation in java a
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  MySQL
   
 
-# 📊 | GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aabhi-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aabhi-k&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabhi-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 | GitHub Stats:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aabhi-k&show_icons=true&theme=gotham" alt="aabhi-k" />  </p>
