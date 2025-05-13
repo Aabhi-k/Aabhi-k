@@ -1,22 +1,71 @@
-# 💫 | About Me:
+<h1 align="center">Hi 👋, I'm Aabhigyan Kumar</h1>
+<h3 align="center">Aspiring Software Developer | Java & Spring Enthusiast | Full-Stack Developer</h3>
+
+---
+
+## 💫 About Me
+
+🎓 BCA Student at Christ (Deemed to be University), Delhi NCR  
+💻 Passionate about backend development, microservices, and scalable system design  
+🧠 Constantly improving my data structures, algorithms, and software architecture skills  
+☕ Powered by coffee and curiosity  
+
+---
+
+## 🔧 Tech Stack
+
+### 💻 Languages
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20"/> Java  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript
+
+### 🚀 Frameworks & Libraries
+- <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="20"/> Spring Boot  
+- Spring MVC  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React.js  
+- Express.js
+
+### 🛢️ Databases
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB  
+- Cassandra
+
+### 🔧 Tools & Platforms
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="25"/> Docker  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> Git  
+- <img src="https://img.shields.io/badge/AWS-EC2-orange?logo=amazon-aws&logoColor=white" height="20"/> AWS EC2  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20"/> Linux
 
 
-I'm Aabhigyan Kumar, an aspiring software developer with strong foundation in java and spring framework. 
-<br><br>
-- Currently improving my ⚙️ |  Data Structures and Algorithms  and problem solving skills.
-- Improving my development skills
-- Coffee keeps me going
 
 
+## 🏆 Achievements
+- 🎓 Merit Scholarship (Top 5%) — Christ University
+- 🚀 Christ Accelerated Talent Program — Top 5% candidate
+- 🛠️ Hack Genesis Tech Club Coordinator — Led SDLC practices for 450+ participants
 
-## 🎯 | Skills
+---
 
--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>  Java 
--  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/>    Spring Boot
--  ![pngwing com(1)](https://github.com/Aabhi-k/Aabhi-k/assets/140899904/e8d44344-b632-4f45-a5ab-88fa4cfa18f0)     Microservice
--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>  Docker
--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  MySQL
-  
+## 📈 GitHub Stats
 
-## 📊 | GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aabhi-k&show_icons=true&theme=gotham" alt="aabhi-k" />  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aabhi-k&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.letsgetthis.tech/">
+    <img src="https://img.icons8.com/ios-filled/24/1E90FF/domain.png"/> Portfolio
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aabhigyan-kumar/">
+    <img src="https://img.icons8.com/ios-filled/24/1E90FF/linkedin.png"/> LinkedIn
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/Aabhi-k">
+    <img src="https://img.icons8.com/ios-filled/24/1E90FF/github.png"/> GitHub
+  </a>
+</p>
+
